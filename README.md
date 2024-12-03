@@ -1,4 +1,4 @@
-#requirement
+# requirement
 - npm
 - postman
 - mongodb
@@ -37,3 +37,15 @@ npm run server
 ```
 meetingApi_app > postman > Meeting_app.postman_collection.json
 ```
+
+# OR TESTING API WITH MY DEPLOY SERVER(https://meetingapi-app.onrender.com)
+- dowload only postman and replace
+```
+http://localhost:4000
+```
+with
+```
+https://meetingapi-app.onrender.com)
+```
+
+Thank for reading kub
